@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import { MainMenu } from "./components/main-menu/MainMenu";
 import { HowToPlay } from "./components/how-to-play/HowToPlay";
